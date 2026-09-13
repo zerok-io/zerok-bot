@@ -1,0 +1,2 @@
+# zerok-bot
+bot discord
